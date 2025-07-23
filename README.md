@@ -33,10 +33,7 @@ Have expertise in manage, deliver, and support AI infrastructure leveraging GPU-
 [1.1]: https://img.shields.io/badge/Twitter-00acee
 [2.1]: https://img.shields.io/badge/Linked_In-0e76a8
 [4.1]: https://img.shields.io/badge/Medium-000
-[5.1]: https://img.shields.io/badge/Instagram-dd2a7b
-[6.1]: https://img.shields.io/badge/chandan4u1990@gmail.com-d44638
 
 [linkedin]: https://www.linkedin.com/in/chandan-kumar20/
 [twitter]: https://x.com/cheerschandan
 [medium]: https://medium.com/@chandankumar_64074
-[gmail]: mailto:chandan4u1990@gmail.com
