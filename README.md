@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chandan!
 
-As of July 2025, I'm Senior Manager at Prudentail in Cloud Engineering team. 
+As of July 2025, I'm Senior Manager at Prudential Services Sinapore in Cloud Engineering team. 
 
 -------
 
