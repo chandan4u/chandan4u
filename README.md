@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chandan!
 
-As of July 2025, I'm Senior Manager at Prudential Services Sinapore in Cloud Engineering team. 
+As of July 2025, I serve as a Senior Manager in the Cloud Engineering team at Prudential Services Singapore, where I lead strategic cloud initiatives and drive innovation in scalable, secure, and cost-effective infrastructure solutions.
 
 -------
 
