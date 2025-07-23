@@ -14,7 +14,7 @@ Have expertise in manage, deliver, and support AI infrastructure leveraging GPU-
 
 🔭 I’ve worked on projects that have reached millions, and I specialize in Go, Beego, Python, Django, Javascript, GCP, AWS, Azure and Kubernetes.
 
-[![Twitter][1.1]][twitter]  [![LinkedIn][2.1]][linkedin]  [![Medium][4.1]][medium]  [![Instagram][5.1]][insta]
+[![Twitter][1.1]][twitter]  [![LinkedIn][2.1]][linkedin]  [![Medium][4.1]][medium]
 
 ## 🚀 What I'm up to
 - Senior Manager - Cloud Engineering
